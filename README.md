@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, friendo 👋
+- 🌱 I’m currently learning:
+  - Front end development, including javascript, Django, and bootstrap
+  - Python
+- 😄 Pronouns: she/her/they/them
+- ⚡ Fun fact: I was a finalist for the Hugo for Best Fan Writer in 2017
+
 
 <!--
 **CuriousMagpie/CuriousMagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
