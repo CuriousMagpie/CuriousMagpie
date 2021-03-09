@@ -1,7 +1,9 @@
 ### Hi there, friendo 👋
+- 🔭 I’m currently working on a portfolio website, lovingly coded by hand. It's artisinal, small batch HTML/CSS.
 - 🌱 I’m currently learning:
-  - Front end development, including javascript, Django, and bootstrap
+  - Front end development, including Django, Bootstrap, and Javascript
   - Python
+  - WordPress child theme development
 - 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: I was a finalist for the Hugo for Best Fan Writer in 2017
 
