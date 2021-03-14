@@ -7,7 +7,7 @@
   - WordPress child theme development
 - 👯  I'd love to collaborate with you on open source projects that have a community focus and benefit. Not looking to "disrupt" anything, but to make existing spaces more equitable and accessible.
 - 😄  Pronouns: she/her/they/them
-- ⚡  Fun fact: I was a finalist for the Hugo for Best Fan Writer in 2017
+- ⚡  Fun fact: I was a finalist for the Hugo for Best Fan Writer in 2017 and I blog at [Pretty Terrible](https://www.pretty-terrible.com/) (note that the template needs a *serious* refresh)
 
 
 <!--
