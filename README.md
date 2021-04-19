@@ -2,7 +2,7 @@
 - 🔭  I’m currently working on a portfolio website, lovingly coded by hand. It's artisinal, small batch HTML/CSS. But definitely *not* organic.
 - 🤖  It's not organic because I am a cyborg. Beep boop!
 - 🌱  I’m currently learning:
-  - Front end development, including Django, Bootstrap, and Javascript
+  - Front end development, including Django and JavaScript (including Bootstrap and React).
   - Python
   - WordPress child theme development
 - 👯  I'd love to collaborate with you on open source projects that have a community focus and benefit. Not looking to "disrupt" anything, but to make existing spaces more equitable and accessible.
