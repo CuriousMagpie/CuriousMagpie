@@ -2,13 +2,13 @@
 - 🔭  I’m currently working on a portfolio website, lovingly coded by hand. It's artisinal, small batch HTML/CSS. But definitely *not* organic.
 - 🤖  It's not organic because I am a cyborg. Beep boop!
 - 🌱  I’m currently learning:
-  - Front end development, including Django and JavaScript (including Bootstrap and React).
+  - Front end development, including Django and JavaScript (including React).
   - Python
   - WordPress child theme development
 - 👯  I'd love to collaborate with you on open source projects that have a community focus and benefit. Not looking to "disrupt" anything, but to make existing spaces more equitable and accessible.
 - 😄  Pronouns: she/her/they/them
 - ⚡  Fun fact: I was a finalist for the Hugo for Best Fan Writer in 2017 and I blog at [Pretty Terrible](https://www.pretty-terrible.com/) (note that the template needs a *serious* refresh)
-
+- ⚡  Another fun fact: I'm a finalist for the 2021 Hugo for Best Related Work for my essay about yeeting George R.R. Martin into the sun. 
 
 <!--
 **CuriousMagpie/CuriousMagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
