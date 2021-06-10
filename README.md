@@ -2,8 +2,8 @@
 - 🤖  I am a cyborg. Beep boop!
 - 😄  Pronouns: she/her/they/them
 - 🌱  I’m currently learning:
-  - Front end development (Javascript and HTML/CSS and frameworks like Django and React)
-  - Python
+  - Front end development (Javascript and HTML/CSS plus React and Bootstrap)
+  - Python and Django
   - WordPress child theme development
 
 - ⚡  Fun fact: I was a finalist for the Hugo for Best Fan Writer in 2017 and I blog at [Pretty Terrible](https://www.pretty-terrible.com/).
